@@ -1,4 +1,4 @@
-# 📊 Retail Transaction Data Analysis & KPI Dashboard Development Using SQL
+<h1 align="center"> 📊 Retail Transaction Data Analysis & KPI Dashboard Development </h1>
 
 ## 📌 Project Overview
 

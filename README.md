@@ -140,6 +140,6 @@ This project showcases the ability to transform raw transactional data into stru
 
 <p> Thovhakale ovious riphuluse<br>
 
-Aspiring Data Analyst | Business Intelligence Enthusiast<br>
+BSc in physics and chemistry graduate | Aspiring Data Analyst | Business Intelligence Enthusiast<br>
 LinkedIn:http://linkedin.com/in/riphuluse<br>
 Email:riphuluseobvious@gmail.com </p>
